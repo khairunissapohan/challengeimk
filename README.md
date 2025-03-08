@@ -1,7 +1,10 @@
 <h1 align="center">Hello, I'm Khairunissa! 👋</h1>
 
+🎓 Currently pursuing *Information Technology* at *Universitas Sumatera Utara*  
 🌍 **Exploring Tech & Communication**  
-💡 Passionate about **Web Development, AI & Networking**    
+💡 Passionate about **Web Development, Data & Networking**
+🎉funfact: i like listening music and watching film
+
 
 ---
 
@@ -11,12 +14,7 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,react,python,mysql,git,github,vscode,figma" />
 </p>
 
----
-
-## 🚀 Current Focus  
-🔹 Learning **Machine Learning & Backend Development**  
-🔹 Improving **Communication & Public Relations Skills**  
-🔹 Working on **Tech & Digital Strategies**  
+---  
 
 
 ## 🔥 Tech Stack
