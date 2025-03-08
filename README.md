@@ -2,20 +2,11 @@
 
 🎓 Currently pursuing *Information Technology* at *Universitas Sumatera Utara*  
 🌍 **Exploring Tech & Communication**  
-💡 Passionate about **Web Development, Data & Networking**
+💡 Passionate about **Web Development, Data & Networking** <br>
 🎉funfact: i like listening music and watching film
 
 
 ---
-
-
-## 🛠 Tech Stack  
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,mysql,git,github,vscode,figma" />
-</p>
-
----  
-
 
 ## 🔥 Tech Stack
 <p align="center">
