@@ -4,16 +4,15 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23F7C92D&center=true&vCenter=true&lines=Welcome+to+my+GitHub!+🚀;Full-Stack+Developer+💻;AI+&+Data+Enthusiast+🤖;🌍">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%00A8E8&center=true&vCenter=true&lines=Welcome+to+my+GitHub!+🚀;Full-Stack+Developer+💻;AI+&+Data+Enthusiast+🤖;🌍">
 </p>
 
 ---
 
 ## 🚀 About Me
-- 🎓 I’m currently studying *Information Technology* at *Universitas Sumatera Utara*  
-- 💡 Passionate about *Technology and Web Development*  
-- 🛠 Exploring *Machine Learning and Backend Development*  
-- 🎯 2025 Goals: *Contribute more to Open Source & Build cool projects*  
+-🎓 Currently pursuing a degree in Information Technology at Universitas Sumatera Utara
+-💡 Enthusiastic about Web Development, AI, and Data Science
+-🛠 Actively exploring Machine Learning, Backend Development & Cloud Technologies  
 
 ## 🔥 Tech Stack
 <p align="center">
@@ -27,9 +26,15 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=khairunissapohan&theme=radical" />
 </p>
 
-## 🌍 Let's Connect!
+## 🌍 Let's Connect with me!
 <p align="center">
   <a href="mailto:khairunissapohan1408@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+   <a href="https://www.linkedin.com/in/khairunissapohan">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/khairunissapohan">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
 </p>
