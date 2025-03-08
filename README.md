@@ -1,18 +1,23 @@
-<h1 align="center">Hi there, I'm Khairunissa 👋</h1>
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
-</p>
+<h1 align="center">Hello, I'm Khairunissa! 👋</h1>
 
+🌍 **Exploring Tech & Communication**  
+💡 Passionate about **Web Development, AI & Networking**    
+
+---
+
+
+## 🛠 Tech Stack  
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%00A8E8&center=true&vCenter=true&lines=Welcome+to+my+GitHub!+🚀;Full-Stack+Developer+💻;AI+&+Data+Enthusiast+🤖;🌍">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,mysql,git,github,vscode,figma" />
 </p>
 
 ---
 
-## 🚀 About Me
--🎓 Currently pursuing a degree in Information Technology at Universitas Sumatera Utara
--💡 Enthusiastic about Web Development, AI, and Data Science
--🛠 Actively exploring Machine Learning, Backend Development & Cloud Technologies  
+## 🚀 Current Focus  
+🔹 Learning **Machine Learning & Backend Development**  
+🔹 Improving **Communication & Public Relations Skills**  
+🔹 Working on **Tech & Digital Strategies**  
+
 
 ## 🔥 Tech Stack
 <p align="center">
